@@ -1,0 +1,12 @@
+﻿  encoder.cpp
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\ppm.h(131,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\ppm.h(136,32): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\ppm.h(157,32): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\encoding.h(26,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\encoding.h(37,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\encoding.h(99,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\encoding.h(109,1): warning C4267: инициализация: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+C:\Users\Михаил\source\repos\jpgencoder\jpgencoder\encoding.h(137,27): warning C4018: <: несоответствие типов со знаком и без знака
+  JPEGdecoder.cpp
+  Создание кода...
+  jpgencoder.vcxproj -> C:\Users\Михаил\source\repos\jpgencoder\Debug\jpgencoder.exe
